@@ -1,4 +1,5 @@
 The file 'CoCo-GAN'introduces a game theoretic regularization of Wasserstein GAN.
+
 The file 'Fibrations explain all you need!' introduces fibrations for abductive reasoning and as attention mechanisms.  
 The key idea here is to treat being a fibration not as a property, but as structure.
 
