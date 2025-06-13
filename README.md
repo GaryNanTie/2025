@@ -13,3 +13,7 @@ So we trade imposition of universality, a form of optimization, for structural c
 This curious nuance through shift in perspective finesses trying to conceptualize notions of best plausible explanation consistent with the data.  Moreover, it has a cognitive interpretation for human abduction which employs analogy and heuristics.  
 
 Sidebar:  Perhaps a constructive model of univalent foundations also needs to be structural rather than universal property driven?
+
+
+Abstract for the file 'Neural Network Abduction':
+For hypotheses whose effect is manifested by observations, abduction seeks to explain a given observation by finding a hypothesis whose effect is that observation.  Abductive reasoning has a fibration semantics that can be implemented by neural networks; a step towards artificial general intelligence.  
