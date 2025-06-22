@@ -17,3 +17,6 @@ Sidebar:  Perhaps a constructive model of univalent foundations also needs to be
 
 Abstract for the file 'Neural Network Abduction':
 For hypotheses whose effect is manifested by observations, abduction seeks to explain a given observation by finding a hypothesis whose effect is that observation.  Abductive reasoning has a fibration semantics that can be implemented by neural networks; a step towards artificial general intelligence.  
+
+
+For an effect, 'Parsimonious Neural Network Abduction' introduces a parsimonious learnable selection mechanism to choose the simplest most plausible explanation of an observation.
