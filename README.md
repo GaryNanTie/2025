@@ -20,3 +20,6 @@ For hypotheses whose effect is manifested by observations, abduction seeks to ex
 
 
 For an effect, 'Parsimonious Neural Network Abduction' introduces a parsimonious learnable selection mechanism to choose the simplest most plausible explanation of an observation.
+
+
+'Attention Fibration Abduction' shows that a certain neural network fibration embodies both attention and abduction.
