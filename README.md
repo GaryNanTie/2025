@@ -27,4 +27,5 @@ For an effect, 'Parsimonious Neural Network Abduction' introduces a parsimonious
 
 FibChat – It makes stuff up, but with structure.
 Query updating via fibration attention
+
 A new transformer attention mechanism via fibrations.
