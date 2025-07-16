@@ -25,7 +25,7 @@ For an effect, 'Parsimonious Neural Network Abduction' introduces a parsimonious
 'Attention Fibration Abduction' shows that a certain neural network fibration embodies both attention and abduction.
 
 
-FibChat – It makes stuff up, but with structure.
-Query updating via fibration attention
-
+'FibChat – It makes stuff up, but with structure.'
+Query updating via fibration attention.
 A new transformer attention mechanism via fibrations.
+
